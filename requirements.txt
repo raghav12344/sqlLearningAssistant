@@ -1,0 +1,16 @@
+langchain
+langchain-google-genai
+google-genai
+langchain-chroma
+langchain-text-splitters
+docling
+chromadb
+pymupdf
+langchain-huggingface
+sentence-transformers
+python-dotenv
+streamlit
+plotly
+torch
+torchvision
+torchaudio

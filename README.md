@@ -68,3 +68,13 @@ An intelligent, **Retrieval-Augmented Generation (RAG)** powered assistant desig
 5. **Run the Assistant:**
    ```bash
    Streamlit run app.py
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request if you find any bugs or have feature enhancements.
+
+## 👤 Author
+
+**Raghav Gupta**
+- **GitHub:** [@raghav12344](https://github.com/raghav12344)
+- **LinkedIn:** [Raghav Gupta](https://linkedin.com/in/raghav-gupta1233)

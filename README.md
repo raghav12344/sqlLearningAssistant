@@ -45,3 +45,26 @@ An intelligent, **Retrieval-Augmented Generation (RAG)** powered assistant desig
    ```bash
    git clone [https://github.com/raghav12344/sqlLearningAssistant.git](https://github.com/raghav12344/sqlLearningAssistant.git)
    cd sqlLearningAssistant
+
+2. **Create and activate a virtual environment:**
+   ```bash
+   # On macOS/Linux
+   python3 -m venv venv
+   source venv/bin/activate
+
+   # On Windows
+   python -m venv venv
+   venv\Scripts\activate
+
+3. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+
+4. **Environment Setup**
+   Create a .env file in the root directory and add your API credentials:
+   ```bash
+   GEMINI_API_KEY=your_gemini_api_key_here
+   
+5. **Run the Assistant:**
+   ```bash
+   Streamlit run app.py
